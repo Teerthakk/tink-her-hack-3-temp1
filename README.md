@@ -1,39 +1,39 @@
-# [Project Name] 🎯
+# [SKIN SQUID] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [MountainSquid24]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [Teertha K K] - [Ahalia School of Engineering and Technology]
+- Member 2: [Hareeshna T g] - [Ahalia School of Engineering and Technology]
+- Member 3: [Diya Krishna M D] - [Ahalia School of Engineering and Technology]
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+[SkinSquid is a personalized skincare app that helps users identify their skin concerns and suggests tailored products. It scans skincare items to check for allergens and ensures compatibility with the user's skin type, offering a safer and more effective skincare routine.]
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+[SkinSquid addresses the challenge of navigating the overwhelming variety of skincare products available, helping users find products that are safe and effective for their specific skin type and concerns. Many consumers struggle with identifying products that are compatible with their skin or contain allergens, leading to potential skin issues. SkinSquid solves this problem by providing personalized recommendations and ingredient analysis to ensure a better, more informed skincare experience.]
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+[The solution SkinSquid provides is a personalized, user-friendly platform that analyzes users' skin concerns and recommends skincare products tailored to their needs. By scanning and evaluating product ingredients for allergens and compatibility with skin types, the app ensures users make safe, informed decisions, minimizing the risk of irritation or adverse reactions while optimizing their skincare routine.]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [Dart]
+- [Flutter]
+- [Image and Barcode scanning]
+- [Database]
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- [Smartphone, PC]
+- [OS]
+- [Smartphone, system, USB]
 
 ### Implementation
 For Software:
@@ -47,14 +47,14 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![https://drive.google.com/file/d/1FzPVQOE6ndMiyaMRvgyK8kD9CiNgzp38/view?usp=drive_link](Welcome to our app)
+*It shows the first page*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![https://drive.google.com/file/d/1UkuD5rfqP256kUlV_GPyqxqVV22FQhaQ/view?usp=drive_link](Options)
+*It shows a photos of users skin concerns*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![https://drive.google.com/file/d/1FxOZ0G1cxssab-kchaGnqXmTie11tSXQ/view?usp=drive_link](Choices)
+*skin type questionnaire*
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
@@ -70,7 +70,7 @@ For Hardware:
 *Add caption explaining the schematic*
 
 # Build Photos
-![Team](Add photo of your team here)
+![Team](https://drive.google.com/file/d/1Z3JZcABAHdGOYgxaUp0AmABjjPHOCuGV/view?usp=drive_link)
 
 
 ![Components](Add photo of your components here)
