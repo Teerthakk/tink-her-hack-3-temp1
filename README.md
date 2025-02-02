@@ -70,7 +70,7 @@ For Hardware:
 *Add caption explaining the schematic*
 
 # Build Photos
-![Team](https://drive.google.com/file/d/1Z3JZcABAHdGOYgxaUp0AmABjjPHOCuGV/view?usp=drive_link)
+![https://drive.google.com/file/d/1Z3JZcABAHdGOYgxaUp0AmABjjPHOCuGV/view?usp=drive_link]
 
 
 ![Components](Add photo of your components here)
@@ -84,8 +84,7 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+ [https://drive.google.com/file/d/1efekbRdLXoFT3iV3ZmbIJO35mn8fmSfO/view?usp=drive_link]
 
 # Additional Demos
 [Add any extra demo materials/links]
